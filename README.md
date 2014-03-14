@@ -1,7 +1,7 @@
 AsyncWorker
 ===========
 
-Exception free AsyncWorker Project with Akka and Java ThredPoolExecutor
+AsyncWorker ignore Java Exception and failure project with Akka and Java ThredPoolExecutor
 
 ## AsyncWorker Interface
 
